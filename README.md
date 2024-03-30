@@ -1,6 +1,6 @@
 ## Description
 
-This project is a backend only QR generator. It asks the user for a URL and then generates it into a QR code photo. This was created as a part of Dr. Angela Yu's Web Development Bootcamp.
+This project is a backend only QR generator. It asks the user for a URL and then generates it into a QR code photo.
 
 ## Project Goals
 
